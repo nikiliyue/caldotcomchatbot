@@ -1,0 +1,9 @@
+# Core frameworks
+streamlit
+langchain
+langchain-openai
+
+# Utilities
+python-dotenv
+requests
+python-dateutil # For robust date parsing
