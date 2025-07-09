@@ -2,6 +2,8 @@
 
 This project is an interactive chatbot that allows users to manage their Cal.com bookings using natural language. It leverages OpenAI's function calling capabilities, LangChain for agent orchestration, and Streamlit for the web interface.
 
+99 percent of the code are written by GEMINI through AI Studio.
+
 ## Features
 
 - **Book Events**: Schedule new meetings by specifying date, time, and reason.
