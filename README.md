@@ -99,4 +99,3 @@ Your web browser should automatically open to the chatbot interface, typically a
 
 -   **Cancel Event**: The `cancel_event` tool is fully implemented. The agent is prompted to first find the booking ID by listing events, making the process robust.
 -   **Interactive Web UI**: A user-friendly web interface is built using Streamlit, allowing for real-time interaction and easy configuration.
--   **Rescheduling (Conceptual)**: While not a dedicated tool, the agent can handle rescheduling requests by combining cancellation and booking. A user can say, "I want to reschedule my 3pm meeting to 4pm," and the agent can use the `cancel_event` and `book_event` tools in sequence.
